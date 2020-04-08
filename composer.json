@@ -1,0 +1,14 @@
+{
+    "name": "wilder/composer1",
+    "description": "Quete composer",
+    "authors": [
+        {
+            "name": "Guillaume",
+            "email": "gdv.delvecchio75@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"src\\" : "src"}
+    },
+    "require": {}
+}
